@@ -1,6 +1,0 @@
-﻿  BankAccountMain.cpp
-C:\Users\thamw\source\repos\w1782359_PA6\w1782359_PA6\BankAccountMain.cpp(59,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\thamw\source\repos\w1782359_PA6\w1782359_PA6\BankAccountMain.cpp(70,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\thamw\source\repos\w1782359_PA6\w1782359_PA6\BankAccountMain.cpp(104,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-C:\Users\thamw\source\repos\w1782359_PA6\w1782359_PA6\BankAccountMain.cpp(117,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-  w1782359_PA6.vcxproj -> C:\Users\thamw\source\repos\w1782359_PA6\x64\Debug\w1782359_PA6.exe

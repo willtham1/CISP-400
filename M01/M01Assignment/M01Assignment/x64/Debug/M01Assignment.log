@@ -1,3 +1,0 @@
-﻿  VectorFunctions.cpp
-C:\Users\thamw\source\repos\M01Assignment\M01Assignment\VectorFunctions.cpp(5,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  M01Assignment.vcxproj -> C:\Users\thamw\source\repos\M01Assignment\x64\Debug\M01Assignment.exe
