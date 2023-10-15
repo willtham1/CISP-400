@@ -1,0 +1,3 @@
+﻿  Painting.cpp
+C:\Users\thamw\source\repos\w1782359_Lab7\w1782359_Lab7\Painting.cpp(47,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  w1782359_Lab7.vcxproj -> C:\Users\thamw\source\repos\w1782359_Lab7\x64\Debug\w1782359_Lab7.exe
